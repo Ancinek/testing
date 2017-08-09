@@ -1,0 +1,2 @@
+database: mongod --quiet
+web: yarn run develop
